@@ -1,0 +1,23 @@
+{
+  "name": "learning-expressjs",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-by-practice/learning-expressjs.git"
+  },
+  "keywords": [
+    "Express.js",
+    "Node.js",
+    "Framework"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Code-by-practice/learning-expressjs/issues"
+  },
+  "homepage": "https://github.com/Code-by-practice/learning-expressjs#readme"
+}
